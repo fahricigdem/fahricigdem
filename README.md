@@ -1,14 +1,14 @@
-<p align="center"> 
-<img  src="pandas.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="numpy.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="SQL.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="css.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
+<p align="center">  
 <img src="logo_python.png" height="60">
- </p> 
+<img src="SQL.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="numpy.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img  src="pandas.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp;
+<img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="css.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;
+</p> 
   <br/>
 
-### Hi there 👋
+### Hi 👋
 🌱 I’m currently learning Java Script and Data Science Basics
 
 <!--
