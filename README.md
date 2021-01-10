@@ -1,7 +1,7 @@
 <p align="center">  
 <img src="logo_python.png" height="60">
 <img src="SQL.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp;
-<img src="numpy.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="numpy.png" height="60" title="numpy"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img  src="pandas.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp;
 <img src="css.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;
