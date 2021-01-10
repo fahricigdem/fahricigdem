@@ -10,6 +10,7 @@
 
 ### Hi 👋
 🌱 I’m currently learning Java Script and Data Science Basics
+👯 I’m looking to collaborate
 
 <!--
 **fahricigdem/fahricigdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
