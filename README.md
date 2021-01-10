@@ -6,7 +6,7 @@
 <a href="https://html.spec.whatwg.org/"><img src="html.png" height="60" title="Html"></a>&nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css"><img src="css.png" height="60" title="CSS"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
-  <br/>
+  <hr style="lengt=50%">
 
 ### Hi 👋
 🌱 I’m currently learning Java Script and Data Science Basics
