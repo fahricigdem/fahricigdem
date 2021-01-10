@@ -10,6 +10,7 @@
 
 ### Hi 👋
 🌱 I’m currently learning Java Script and Data Science Basics
+<br>
 👯 I’m looking to collaborate
 
 <!--
