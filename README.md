@@ -1,10 +1,10 @@
 <p align="center">  
-<img src="logo_python.png" height="60">
-<img src="SQL.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp;
-<img src="numpy.png" height="60" title="numpy"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img  src="pandas.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp;
-<img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp;
-<img src="css.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="logo_python.png" height="60" title="Python">
+<img src="SQL.png" height="60" title="SQL">&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="numpy.png" height="60" title="Python's Numpy Library"> &nbsp;&nbsp;&nbsp;
+<img  src="pandas.png" height="60" title="Python's Pandas Library"> &nbsp;&nbsp; &nbsp;&nbsp;
+<img src="html.png" height="60" title="Html">&nbsp;&nbsp; &nbsp;&nbsp;
+<img src="css.png" height="60" title="CSS"> &nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
   <br/>
 
