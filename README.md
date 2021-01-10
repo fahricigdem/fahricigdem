@@ -1,10 +1,10 @@
 <p align="center">  
 <a href="https://www.python.org/"><img src="logo_python.png" height="60" title="Python"></a>&nbsp;&nbsp;
-<img src="SQL.png" height="60" title="SQL">&nbsp;&nbsp; &nbsp;&nbsp;
-<img src="numpy.png" height="60" title="Python's Numpy Library"> &nbsp;&nbsp;&nbsp;
-<img  src="pandas.png" height="60" title="Python's Pandas Library"> &nbsp;&nbsp; &nbsp;&nbsp;
-<img src="html.png" height="60" title="Html">&nbsp;&nbsp; &nbsp;&nbsp;
-<img src="css.png" height="60" title="CSS"> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="SQL.png" height="60" title="SQL"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://numpy.org/"><img src="numpy.png" height="60" title="Python's Numpy Library"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/"><img  src="pandas.png" height="60" title="Python's Pandas Library"></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://html.spec.whatwg.org/"><img src="html.png" height="60" title="Html"></a>&nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css"><img src="css.png" height="60" title="CSS"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
   <br/>
 
