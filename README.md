@@ -1,4 +1,6 @@
 <p align="center">  
+<img src="all.png" height="60" title="all"> 
+<!--
 <a href="https://www.python.org/"><img src="logo_python.png" height="60" title="Python"></a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="SQL.png" height="60" title="SQL"></a>&nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://numpy.org/"><img src="numpy.png" height="60" title="Python's Numpy Library"></a> &nbsp;&nbsp;&nbsp;
@@ -6,6 +8,7 @@
 <a href="https://html.spec.whatwg.org/"><img src="html.png" height="60" title="Html"></a>&nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css"><img src="css.png" height="60" title="CSS"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
+-->
   <hr style="lengt=50%">
 
 ### Hi 👋
