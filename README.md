@@ -12,7 +12,7 @@
   <hr style="lengt=50%">
 
 ### Hi 👋
-🌱 I’m currently learning Java Script and Data Science Basics
+🌱 I’m currently learning React and Data Science Basics
 <br>
 👯 I’m looking to collaborate
 
