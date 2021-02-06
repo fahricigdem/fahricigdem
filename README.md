@@ -12,7 +12,7 @@
   <hr style="lengt=50%">
 
 ### Hi 👋
-🌱 I’m currently learning React and Data Science Basics
+🌱 I’m currently learning React <img src="logo_react.png"/>
 <br>
 👯 I’m looking to collaborate
 
