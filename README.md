@@ -12,7 +12,7 @@
   <hr style="lengt=50%">
 
 ### Hi 👋
-<img src="logo_react.svg" height="10"/> <span style="text-align: bottom;">I’m currently learning React</span>
+<img src="logo_react.svg" height="15"/> <span style="text-align: bottom;">I’m currently learning React</span>
 <br>
 👯 I’m looking to collaborate
 
