@@ -1,6 +1,7 @@
 <p align="center">  
-<img src="all.png" height="60" title="Python-SQL-Numpy-Pandas-Html-Css"> 
 <!--
+<img src="all.png" height="60" title="Python-SQL-Numpy-Pandas-Html-Css"> 
+
 <a href="https://www.python.org/"><img src="logo_python.png" height="60" title="Python"></a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="SQL.png" height="60" title="SQL"></a>&nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://numpy.org/"><img src="numpy.png" height="60" title="Python's Numpy Library"></a> &nbsp;&nbsp;&nbsp;
