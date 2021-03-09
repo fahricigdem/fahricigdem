@@ -12,7 +12,7 @@
 
   <hr style="lengt=50%">
 -->
-### Hi 👋
+Hi 👋
 <img src="logo_react.svg" height="15"/> <span style="text-align: bottom;">I’m currently learning <a href="https://fahricigdem.github.io/react-apps-firststeps">React</a></span>
 <br>
 👯 I’m looking to collaborate
