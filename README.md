@@ -13,7 +13,7 @@
   <hr style="lengt=50%">
 -->
 Hi 👋
-<img src="logo_react.svg" height="15"/> <span style="text-align: bottom;">I’m currently learning React and this is my last step -><a href="https://fahricigdem.github.io/react-apps-firststeps">My Learning Area</a></span>
+<img src="logo_react.svg" height="15"/> <span style="text-align: bottom;">I’m currently learning React>
 <br><br>
 <!--
 <a href="https://fahricigdem.github.io/prioritized-task-list-with-react/"> My Last React Project (Prioritized Task List App) </a> <br>
