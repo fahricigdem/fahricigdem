@@ -14,21 +14,19 @@
 -->
 Hi 👋
 <img src="logo_react.svg" height="15"/> <span style="text-align: bottom;">
-<br><br>
-<!--
+<br>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-cigdem-a146aa192/) 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="15%"/> </p>
+
+ <!--
 <a href="https://fahricigdem.github.io/prioritized-task-list-with-react/"> My Last React Project (Prioritized Task List App) </a> <br>
 <a href="https://next-js-react-simple-website.vercel.app/"> My NextJS (& React) Project (Simple Website) </a> <br><br>
--->
-👯 I’m looking to collaborate <br> 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-cigdem-a146aa192/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="15%"/> </p>
 
-![](https://komarev.com/ghpvc/?username=fahricigdem)
-
-<!--
 **fahricigdem/fahricigdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👯 I’m looking to collaborate <br> 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
