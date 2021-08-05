@@ -19,7 +19,7 @@ Hi 👋
 <a href="https://fahricigdem.github.io/prioritized-task-list-with-react/"> My Last React Project (Prioritized Task List App) </a> <br>
 <a href="https://next-js-react-simple-website.vercel.app/"> My NextJS (& React) Project (Simple Website) </a> <br><br>
 -->
-👯 I’m looking to collaborate
+👯 I’m looking to collaborate [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-cigdem-a146aa192/) 
 
 ![](https://komarev.com/ghpvc/?username=fahricigdem)
 
