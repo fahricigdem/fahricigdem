@@ -15,11 +15,11 @@
 Hi 👋
 
 <br>
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-cigdem-a146aa192/) <img src="logo_react.svg" height="25"/> <span style="text-align: bottom;">
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-cigdem-a146aa192/) 
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="15%"/> </p>
-
+<img src="logo_react.svg" height="25"/> <span style="text-align: bottom;">
  <!--
 <a href="https://fahricigdem.github.io/prioritized-task-list-with-react/"> My Last React Project (Prioritized Task List App) </a> <br>
 <a href="https://next-js-react-simple-website.vercel.app/"> My NextJS (& React) Project (Simple Website) </a> <br><br>
