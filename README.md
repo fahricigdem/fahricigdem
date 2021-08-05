@@ -12,7 +12,7 @@
 
   <hr style="lengt=50%">
 -->
-Hi! <img src="logo_react.svg" height="25"/> <span style="text-align: bottom;">
+Hi! 
 
 <br>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-cigdem-a146aa192/) 
