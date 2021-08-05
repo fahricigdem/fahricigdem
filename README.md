@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahri-cigdem-a146aa192/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="15%"/> </p>
 <p align="center">  
 <!--
 <img src="all.png" height="60" title="Python-SQL-Numpy-Pandas-Html-Css"> 
