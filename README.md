@@ -18,9 +18,12 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="18%"/>
 
-I’m currently learning Blazor <img src="Blazor.png" style="vertical-align:middle" height="25" title="Blazor"> with 
-<img src="csharp.png" style="vertical-align:bottom" height="40" title="csharp">
-
+I’m currently learning Blazor 
+<div vertical-align='middle'>
+<img src="Blazor.png" height="25" title="Blazor"> 
+with 
+<img src="csharp.png" height="40" title="csharp">
+</div>
 
  <!--
 <a href="https://fahricigdem.github.io/prioritized-task-list-with-react/"> My Last React Project (Prioritized Task List App) </a> <br>
