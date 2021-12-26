@@ -18,7 +18,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="18%"/>
 
-I’m currently learning Blazor <img src="Blazor.png" style="vertical-align:middle" height="25" title="Blazor"> with <img src="csharp.png" style="vertical-align:middle" height="30" title="csharp">
+I’m currently learning Blazor <img src="Blazor.png" style="vertical-align:middle" height="25" title="Blazor"> with <img src="csharp.png" style="vertical-align:bottom" height="40" title="csharp">
 
 
  <!--
