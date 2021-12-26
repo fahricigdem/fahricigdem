@@ -20,7 +20,7 @@
 
 
 <div vertical-align='middle'>
- I’m currently learning Blazor 
+ I’m currently learning 
 <img src="csharp.png" height="40" title="csharp">
 && 
 <img src="Blazor.png" height="40" title="Blazor"> 
