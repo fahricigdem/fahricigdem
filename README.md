@@ -19,10 +19,10 @@
 <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="18%"/>
 </div>
 
-<div vertical-align='middle'>
- <span>🌱  I’m currently learning </span>
+<div vertical-align='top'>
+🌱  I’m currently learning 
 <img src="csharp.png" height="40" title="csharp">
-<p>&& </p>
+&&
 <img src="Blazor.png" height="40" title="Blazor"> 
 </div>
 
