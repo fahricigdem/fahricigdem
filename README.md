@@ -20,7 +20,7 @@
 </div>
 
 <div vertical-align='middle'>
- <p>🌱  I’m currently learning </p>
+ <p display="inline-block">🌱  I’m currently learning </p>
 <img src="csharp.png" height="40" title="csharp">
 <p>&& </p>
 <img src="Blazor.png" height="40" title="Blazor"> 
