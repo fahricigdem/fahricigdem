@@ -19,9 +19,9 @@
 <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="18%"/>
 </div>
 
-<div vertical-align='top'>
+<div vertical-align='top' background-color="green">
 🌱  I’m currently learning 
-<img display="absolute" posititon="-30px" src="csharp.png" height="40" title="csharp">
+<img src="csharp.png" height="40" title="csharp">
 &&
 <img src="Blazor.png" height="40" title="Blazor"> 
 </div>
