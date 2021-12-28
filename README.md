@@ -21,7 +21,7 @@
 
 <div vertical-align='top'>
 🌱  I’m currently learning 
-<img src="csharp.png" height="40" title="csharp">
+<img display="absolute" posititon="-30px" src="csharp.png" height="40" title="csharp">
 &&
 <img src="Blazor.png" height="40" title="Blazor"> 
 </div>
