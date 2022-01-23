@@ -21,12 +21,15 @@
 
 <div vertical-align='top' background-color="green">
 🌱  I’m currently learning 
-<img src="csharp.png" height="40" title="csharp">
-&&
+
 <img src="Blazor.png" height="40" title="Blazor"> 
 </div>
 
  <!--
+<img src="csharp.png" height="40" title="csharp">
+&&
+
+
 <a href="https://fahricigdem.github.io/prioritized-task-list-with-react/"> My Last React Project (Prioritized Task List App) </a> <br>
 <a href="https://next-js-react-simple-website.vercel.app/"> My NextJS (& React) Project (Simple Website) </a> <br><br>
 
