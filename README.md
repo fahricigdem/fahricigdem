@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="18%"/>
 </div>
 
-React | NextJs | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Bootstrap | Reactstrap 
+React | NextJs | Typescript | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Bootstrap | Reactstrap 
 
 <div vertical-align='top' background-color="green">
 🌱  I’m currently learning 
