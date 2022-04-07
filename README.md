@@ -22,7 +22,7 @@
 React | NextJs | Typescript | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Bootstrap | Reactstrap 
 
 <div vertical-align='top' background-color="green">
-🌱  I’m currently learning 
+🌱  I’m currently learning Blazor with C#  
 
 <img src="Blazor.png" height="40" title="Blazor"> 
 </div>
