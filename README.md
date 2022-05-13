@@ -20,6 +20,7 @@
 </div>
 
 React | NextJs | Typescript | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Bootstrap | Reactstrap 
+<br>
 C# | Blazor
 
 <div vertical-align='top' background-color="green">
