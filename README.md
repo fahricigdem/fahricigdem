@@ -20,9 +20,10 @@
 </div>
 
 React | NextJs | Typescript | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Bootstrap | Reactstrap 
+C# | Blazor
 
 <div vertical-align='top' background-color="green">
-🌱  I’m currently learning Blazor with C#  
+🌱  I’m currently working on a Blazor Project with C# and Javascript  
 
 <img src="Blazor.png" height="40" title="Blazor"> 
 </div>
