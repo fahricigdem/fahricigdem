@@ -21,7 +21,7 @@
 
 React | NextJs | Typescript | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Bootstrap | Reactstrap 
 <br>
-C# | Blazor
+C# | Blazor | JavaScript
 
 <div vertical-align='top' background-color="green">
 🌱  I’m currently working on a Blazor Project with C# and Javascript  
