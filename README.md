@@ -19,9 +19,12 @@
 <img src="https://komarev.com/ghpvc/?username=fahricigdem" alt="visitor counter" width="18%"/>
 </div>
 
-React | NextJs | Typescript | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Bootstrap | Reactstrap 
+
+JavaScript | Typescript | React | NextJs | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Reactstrap
 <br>
-C# | Blazor | JavaScript
+C# | Blazor | JavaScript | Bootstrap |  
+<img src="Blazor.png" height="40" title="Blazor">
+
 
 <div vertical-align='top' background-color="green">
  C# and Javascript  
