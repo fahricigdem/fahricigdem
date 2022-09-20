@@ -20,17 +20,12 @@
 </div>
 
 
-JavaScript | Typescript | React | NextJs | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Reactstrap
+JavaScript | Typescript | React | NextJs | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Reactstrap | VSCode
 <br>
-C# | Blazor | JavaScript | Bootstrap |  
+C# | Blazor | JavaScript | Bootstrap | Interactive Svg | .NET | Visual Studio
 <img src="Blazor.png" height="40" title="Blazor">
 
 
-<div vertical-align='top' background-color="green">
- C# and Javascript  
-
-<img src="Blazor.png" height="40" title="Blazor"> 
-</div>
 
  <!--
 <img src="csharp.png" height="40" title="csharp">
