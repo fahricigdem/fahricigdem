@@ -24,7 +24,7 @@ React | NextJs | Typescript | Storybook | GraphQL | Apollo-Client | REST | Chakr
 C# | Blazor | JavaScript
 
 <div vertical-align='top' background-color="green">
-🌱  I’m currently working on a Blazor Project with C# and Javascript  
+ C# and Javascript  
 
 <img src="Blazor.png" height="40" title="Blazor"> 
 </div>
