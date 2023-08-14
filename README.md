@@ -22,7 +22,7 @@
 
 JavaScript | Typescript | React | NextJs | Storybook | GraphQL | Apollo-Client | REST | Chakra UI | Reactstrap | VSCode
 <br>
-C# | Blazor | JavaScript | Bootstrap | Interactive Svg | .NET | Visual Studio
+C# | Angular | Blazor | JavaScript | Bootstrap | Interactive Svg | .NET | Visual Studio
 <img src="Blazor.png" height="40" title="Blazor">
 
 
